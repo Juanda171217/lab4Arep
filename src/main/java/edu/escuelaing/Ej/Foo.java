@@ -1,10 +1,13 @@
-package edu.escuelaing;
+package edu.escuelaing.Ej;
+
+import edu.escuelaing.Test;
 
 public class Foo {
     @Test
     public static void m1() {
     }
 
+    @Test
     public static void m2() {
     }
 
