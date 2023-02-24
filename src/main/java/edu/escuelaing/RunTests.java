@@ -2,6 +2,8 @@ package edu.escuelaing;
 
 import java.lang.reflect.Method;
 
+import edu.escuelaing.Anotacion.Test;
+
 public class RunTests {
    public static void main(String[] args, int i) throws Exception {
       int passed = 0, failed = 0;

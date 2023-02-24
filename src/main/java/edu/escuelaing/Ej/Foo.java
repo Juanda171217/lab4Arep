@@ -1,6 +1,6 @@
 package edu.escuelaing.Ej;
 
-import edu.escuelaing.Test;
+import edu.escuelaing.Anotacion.Test;
 
 public class Foo {
     @Test
