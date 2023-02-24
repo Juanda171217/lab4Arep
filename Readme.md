@@ -21,6 +21,7 @@ Debe usarse el comando git clone para descargar el repositorio
 
 ```
 git clone https://github.com/Juanda171217/lab4Arep
+```
 
 Para compilar el proyecto se debe usar:
 
