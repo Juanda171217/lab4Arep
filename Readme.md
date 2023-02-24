@@ -47,6 +47,15 @@ Si desea ver otras opciones cambie el "/hello" por los siguientes:
 * hello3
 * hello4
 
+## Pruebas
+
+[![33.png](https://i.postimg.cc/Y0nmyw1r/33.png)](https://postimg.cc/n9mzCgRg)
+
+[![44.png](https://i.postimg.cc/vZ66XkDy/44.png)](https://postimg.cc/MnqTpsy3)
+
+[![55.png](https://i.postimg.cc/d02ZcC8S/55.png)](https://postimg.cc/WD41MhYM)
+
+
 ## Documentación
 
 Para generar la documentación del proyecto se debe ejecutar el siguiente comando
