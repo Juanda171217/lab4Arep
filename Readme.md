@@ -9,11 +9,10 @@ Servidor que ser capaz de entregar páginas html asi como provee un framework Io
 
 Para ejecutar el laboratorio se debe tener instalado:
 
-```
 - Java
 - Maven
 - Git
-```
+
 
 ## Instalación
 
@@ -21,6 +20,7 @@ Debe usarse el comando git clone para descargar el repositorio
 
 ```
 git clone https://github.com/Juanda171217/lab4Arep
+```
 
 Para compilar el proyecto se debe usar:
 
@@ -38,10 +38,14 @@ java -cp "target\classes" edu.escuelaing.HttpServer
 Una vez iniciado el servidor, se puede acceder a la pagina web en el siguiente link
 
 ```
-http://localhost:39000
+http://localhost:38000/hello
 ```
+ 
+Si desea ver otras opciones cambie el "/hello" por los siguientes:
 
-
+* hello2
+* hello3
+* hello4
 
 ## Documentación
 
@@ -52,8 +56,12 @@ mvn javadoc:javadoc
 ```
 Para ver la documentación se debe abrir el archivo index.html que se encuentra en la carpeta target/site/apidocs
 
+## Trabajo en clase
 
-
+Para ver los test hechos en clase
+```
+java -cp "target/classes" edu.escuelaing.InvokeMain edu.escuelaing.RunTests edu.escuelaing.Foo
+```
 ## Autor
 
 * **Juan David Martinez** - [juanda171217](https://github.com/Juanda171217)

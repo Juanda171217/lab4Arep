@@ -1,4 +1,4 @@
-package edu.escuelaing.Ej;
+package edu.escuelaing;
 
 import edu.escuelaing.Anotacion.Test;
 

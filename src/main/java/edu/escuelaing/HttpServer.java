@@ -1,13 +1,10 @@
 package edu.escuelaing;
 
 import java.net.*;
-import java.util.HashMap;
-import java.util.Map;
 import java.util.Scanner;
 import java.util.concurrent.ExecutorService;
 import java.util.concurrent.Executors;
 import java.io.*;
-import java.lang.reflect.Method;
 
 public class HttpServer {
     private static boolean esPath = true;
@@ -195,6 +192,6 @@ public class HttpServer {
         if (System.getenv("PORT") != null) {
             return Integer.parseInt(System.getenv("PORT"));
         }
-        return 39001;
+        return 38000;
     }
 }
